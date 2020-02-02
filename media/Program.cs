@@ -37,7 +37,8 @@ namespace media
                 switch (choix)
                 {
                     case 1:
-                        Console.WriteLine(" A Faire");
+                        Console.WriteLine(" affichage Livre a faire ");
+                        Console.WriteLine(");
                         break;
                     case 2:
                         Console.WriteLine(" A Faire");
